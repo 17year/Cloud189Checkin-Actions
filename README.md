@@ -33,7 +33,7 @@ jntmcxk
 ![](http://tu.yaohuo.me/imgs/2020/06/09c22adcec7b5d81.png)
 
 
-## 三、启用Action
+## 三、启用Action.
 1 点击**Action**，再点击**I understand my workflows, go ahead and enable them**  
 2 修改任意文件后提交一次  
 ![](http://tu.yaohuo.me/imgs/2020/06/34ca160c972b9927.png)
@@ -62,3 +62,4 @@ Actions > Cloud189Checkin > build
 这次密码泄露，我算是始作俑者，同时也是这个问题的受害者(我的密码也一样有泄露的风险)。  
 ### 再次表示歉意！
 ### 请务必尽快修改天翼云盘密码！删除Fork的仓库！
+.
